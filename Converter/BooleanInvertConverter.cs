@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Data;
 
-namespace TestCollspaned.Converter
+namespace DateTimePickerWPF.Converter
 {
     public class BooleanInvertConverter : IValueConverter
     {
