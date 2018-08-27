@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace TestCollspaned.Controls
+namespace DateTimePickerWPF.Controls
 {
     /// <summary>
     /// Interaction logic for ucDateTimePicker.xaml
